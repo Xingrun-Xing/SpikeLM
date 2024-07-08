@@ -14,7 +14,7 @@ Towards energy-efficient artificial intelligence similar to the human brain, the
 * python3, pytorch, transformers, ... are required.
 
 ### 2. Data:
-* Prepare pretraining data (Wikipedia and BookCorpus) the same as bert with the max length 128. The pretraining data is also the same as BiPFT for the BERT architecture.
+* Prepare pretraining data (Wikipedia and BookCorpus) the same as BERT with the max length 128. The pretraining data is also the same as [BiPFT](https://github.com/Xingrun-Xing/BiPFT) for the BERT architecture.
 
 ### 3. Steps to run:
 * Change directory `cd spikeLM-BERT`
